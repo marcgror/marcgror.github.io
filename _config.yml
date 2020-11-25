@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: Data Science and Machine/Deep Learning with Python
+author: Marc Grau Ortiz
+email: marc_taker@live.com
+description: > # this means to ignore newlines until "baseurl:"
+  In this GitHub page I will be uploading and showing all my Data Science, Machine Learning and Deep Learning projects with Python.
+# social links
+github_username:  marcgror # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
