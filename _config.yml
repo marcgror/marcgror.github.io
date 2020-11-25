@@ -8,3 +8,5 @@ github_username:  marcgror # DO NOT include the @ character, or else the build w
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 remote_theme:   benbalter/retlab 
+
+theme: jekyll-theme-slate
