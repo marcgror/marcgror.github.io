@@ -6,10 +6,10 @@ Suppose you want to train a CNN with images, but you don't have a large amount o
 
 As an example, we choose this Pikachu image:
 
-![Pikachu test](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/pikachu_test_preview.png "Normal image")
+![Pikachu test](/images/pikachu_test_preview.png "Normal image")
 
 and after applying the Image Augmentation operations, we obtain the following images:
-![Pikachu augmentated](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/preview_augmentated.png "Augmentated images")
+![Pikachu augmentated](/images/preview_augmentated.png "Augmentated images")
 
 ## Dataset
 The model will be trained using images from 7 different Pokemons/classes:
