@@ -6,10 +6,10 @@ Suppose you want to train a CNN with images, but you don't have a large amount o
 
 As an example, we choose this Pikachu image:
 
-![Pikachu](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/pikachu_test_preview.png)
+![](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/pikachu_test_preview.png)
 
 and after applying the Image Augmentation operations, we obtain the following images:
-![Pikachu-augmentated](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/preview_augmentated.png)
+![](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/preview_augmentated.png)
 
 ## Dataset
 The model will be trained using images from 7 different Pokemons/classes:
@@ -70,11 +70,12 @@ The model is trained locally on a GPU. As the number of images is very low, the 
 
 During the training, an accuracy is computed for both the train and validation data. Its evolution with the epochs can show whether the training process is long enough:
 
-![accuracy](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/accuracy_plot.png)
+![](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/accuracy_plot.png)
 
 ## Get predictions
 The model can be used now to predict the class of test images:
-![predicted](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/predicted_test.png)
+
+![](https://github.com/marcgror/Pokemon-Classification-using-CNN/blob/master/images/predicted_test.png)
 
 6/8. Nearly perfect. The model correctly predicted all the Pokemon images, but it has not distinguished between Mew and Mewtwo, which is probably the main difficulty of this task given the large differences between the other classes, and the one with two Bulbasaurs.
 
