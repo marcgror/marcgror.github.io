@@ -83,7 +83,7 @@ En el acumulado, se puede observar un estancamiento en el número de fallecidos 
 
 ## Mapa de incidencia
 El siguiente mapa muestra la IA de dos semanas en cada Comunidad Autónoma. Esta información se acompaña del recuento de casos y fallecidos en los últimos 7 días y desde el inicio de la pandémia.
-<iframe title="IA en dos semanas" aria-label="Mapa" id="datawrapper-chart-CPbTd" src="https://datawrapper.dwcdn.net/CPbTd/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="468"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="IA en dos semanas" aria-label="Mapa" id="datawrapper-chart-CPbTd" src="https://datawrapper.dwcdn.net/CPbTd/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="468"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 # CCAA
